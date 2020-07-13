@@ -1,0 +1,1 @@
+Pytorch implementation of LSTM for Stock Prediction. Found a huge dataset collection on <a href="https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs">kaggle</a>. All the graphs are in the <b>./output/</b> folder. This project focuses specifically on the IBM stock.
