@@ -1,0 +1,1 @@
+Another LSTM project to predict the stock prices for Infosys. The data ranges from 2012 through 2019. Used keras here instead of pytorch ulike before. All the graphs are in the <b>./ouput/</b> folder.
